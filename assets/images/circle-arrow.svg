@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-Arrow">
+      <rect width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow" clip-path="url(#clip-Arrow)">
+    <g id="Group_148039" data-name="Group 148039" transform="translate(-16693.199 -3076.701)">
+      <path id="Subtraction_109" data-name="Subtraction 109" d="M12.647,14.932h-.035l-.954-.067a.512.512,0,0,1-.359-.179.525.525,0,0,1-.129-.381l.8-11.5L.489,2A.525.525,0,0,1,0,1.442L.069.488A.509.509,0,0,1,.247.131.507.507,0,0,1,.587,0H.629L13.588.908a.533.533,0,0,1,.49.564l-.906,12.973a.53.53,0,0,1-.525.487Z" transform="translate(16717.174 3088.944)" fill="#fff"/>
+      <path id="Line_43" data-name="Line 43" d="M.018,2.214,0,.278,30.471,0l.018,1.936Z" transform="translate(16706.402 3110.397) rotate(-41)" fill="#fff"/>
+      <path id="Ellipse_2420" data-name="Ellipse 2420" d="M24.2,1.936A22.265,22.265,0,1,0,46.465,24.2,22.29,22.29,0,0,0,24.2,1.936M24.2,0A24.2,24.2,0,1,1,0,24.2,24.2,24.2,0,0,1,24.2,0Z" transform="translate(16693.998 3077.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
